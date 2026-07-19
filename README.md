@@ -1,4 +1,4 @@
-# iBaiRelease
+# iBai
 
 **One app for all your self-hosted media.**
 
